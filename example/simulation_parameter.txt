@@ -1,0 +1,12 @@
+D 20.0
+vplus 1.00
+vminus -0.0
+kplus 1.0
+kminus 0.0
+k'plus 1.0
+k'minus 0.0
+dt 0.1
+nstep 15
+N0bc 25.0
+Nplusbc 125.0
+Nminusbc 25.0
