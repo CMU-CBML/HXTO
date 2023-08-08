@@ -1,6 +1,5 @@
 function derfs = Der1BasisFuns(vectori,vectoru,p,U)
 %--------------------------------------------------------------------------
-% 这个函数是想在原有求一个参数点处的导数的基础上进行改写，求出一个节点向量U中多个参数点处的导数值
 %INPUT:
 % vectori      : corresponding knotspan
 % vectoru      : evaluation parameter points vector
